@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm Denis 👋
 
+I'm open for new projects in IT as Java developer. My email - den.voiten@gmail.com
 <!--
 **denvoiten/denvoiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
