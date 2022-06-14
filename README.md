@@ -2,6 +2,8 @@
 
 My e-mail - den.voiten@gmail.com
 
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/GrokDen)
+
 
 #### Проекты:open_file_folder:
 1. [Dream job (Spring + Thymeleaf, MVC, Html, Bootstrap, PostgreSQL, JUnit4, Mockito, Tomcat)](https://github.com/denvoiten/job4j_dreamjob)
