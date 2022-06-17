@@ -6,8 +6,9 @@
 
 
 #### Проекты:open_file_folder:
-1. [Dream job (Spring + Thymeleaf, MVC, Html, Bootstrap, PostgreSQL, JUnit4, Mockito, Tomcat)](https://github.com/denvoiten/job4j_dreamjob)
-2. [Pooh JMS (Maven, Junit, Sockets, Java Concurrency, Java IO)](https://github.com/denvoiten/job4j_pooh)
-3. [Парсер вакансий - парсинг web-сайтов (PostgreSQL, JDBC, Quartz, JSOUP)](https://github.com/denvoiten/job4j_grabber)
-4. [Tracker (PostgreSQL, JDBC, Liquibase, JUnit4)](https://github.com/denvoiten/tracker)
+1. [Web-приложение TODO List - планировщик задач(JDK17, Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)](https://github.com/denvoiten/job4j_todo)
+2. [Web-приложение по поиску работы (JDK17, Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, JUnit4, Mockito, Tomcat)](https://github.com/denvoiten/job4j_dreamjob)
+3. [Pooh JMS (JDK17, Maven, Junit, Sockets, Java Concurrency, Java IO)](https://github.com/denvoiten/job4j_pooh)
+4. [Парсер вакансий - парсинг web-сайтов (JDK17, PostgreSQL, JDBC, Quartz, JSOUP)](https://github.com/denvoiten/job4j_grabber)
+5. [Tracker (JDK17, PostgreSQL, JDBC, Liquibase, JUnit4)](https://github.com/denvoiten/tracker)
 
