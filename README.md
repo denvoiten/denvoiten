@@ -4,11 +4,12 @@
 
 #### Стек технологий:
 * Java 8+, Maven
+* Spring (Core, Boot, Data, Security, ~Cloud~)
 * PostgreSQL, Liquibase, Hibernate
 * Git
 * HTML5, CSS
 * Junit, Mockito
-<!--* Spring (~Core,~ Boot, ~Data, Security, Cloud~) -->
+
 
 #### Проекты:open_file_folder:
 1. [Web-приложение планировщик задач](https://github.com/denvoiten/job4j_todo)(JDK17, Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
