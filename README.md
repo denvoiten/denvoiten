@@ -1,6 +1,5 @@
 ### Hi I'm Denis 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/GrokDen)  [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:den.voiten@gmail.com)
 
 #### Стек технологий:
 * Java 8+, Maven
@@ -19,3 +18,12 @@
 5. [Парсер вакансий - парсинг web-сайтов](https://github.com/denvoiten/job4j_grabber)(JDK17, PostgreSQL, JDBC, Quartz, JSOUP)
 6. ["Менеджер заявок - Tracker"](https://github.com/denvoiten/tracker)(JDK17, PostgreSQL, JDBC, Liquibase, JUnit4)
 
+### Контакты:
+[<img align="left" alt="telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
+
+[telegram]: https://t.me/GrokDen
+[gmail]: mailto:den.voiten@gmail.com
+[linkedin]: https://www.linkedin.com/in/denis-voytenko-585488117/
