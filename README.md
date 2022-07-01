@@ -2,7 +2,8 @@
 
 
 #### Стек технологий:
-* Java 8+, Maven
+* Java 8+ 
+* Maven
 * Spring (Core, Boot, Data, Security, ~Cloud~)
 * PostgreSQL, Liquibase, Hibernate
 * Git
