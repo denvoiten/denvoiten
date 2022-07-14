@@ -7,7 +7,6 @@
 * Spring (Core, Boot, Data, Security)
 * PostgreSQL, Liquibase, Hibernate
 * Git
-* HTML5, CSS
 * Junit, Mockito
 
 
