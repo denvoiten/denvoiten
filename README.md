@@ -12,6 +12,7 @@
 
 #### Проекты:open_file_folder:
 1. [Forum](https://github.com/denvoiten/job4j_forum)(JDK11, Maven, Spring Boot, Spring Data, Spring MVC, Spring Security, Liquibase, Mockito)
+2. [Чат с комнатами](https://github.com/denvoiten/job4j_chat)(JDK11, Maven, Spring Boot, Spring Data, PostgreSQL, REST API, JWT-авторизация)
 2. [Web-приложение продажа автомобилей](https://github.com/denvoiten/cars)(JDK11, Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
 3. [Web-приложение планировщик задач](https://github.com/denvoiten/job4j_todo)(JDK11, Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
 4. [Web-приложение по поиску работы](https://github.com/denvoiten/job4j_dreamjob)(JDK11, Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, JUnit4, Mockito)
