@@ -30,4 +30,3 @@
 [gmail]: mailto:den.voiten@gmail.com
 [linkedin]: https://www.linkedin.com/in/denis-voytenko-585488117/
 
-![Profile views](https://gpvc.arturio.dev/denvoiten)
